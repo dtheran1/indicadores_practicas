@@ -1,0 +1,5 @@
+# Client secrets
+client_secret_*.json
+
+# Claude
+.claude/
